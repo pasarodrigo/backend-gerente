@@ -1,7 +1,6 @@
 {
   "name": "backend-gerente",
   "version": "1.0.0",
-  "description": "Backend para processar UF e chamar API de gerentes",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
